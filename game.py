@@ -15,3 +15,5 @@ for i in range(5):
 
 if x != y:
     print(f"答案為:{x}")
+else:
+    print(f"總共猜了{i+1}次")
